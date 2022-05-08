@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookingHotel</string>
+    <string name="funny_days_travel_plans">Funny Days Travel Plans</string>
+    <string name="view_profile">View Profile</string>
+    <string name="search_places">Search Places</string>
+    <string name="book_hotel">Book Hotel</string>
+    <string name="book_vehicles">Book Vehicles</string>
+    <string name="create_hotel_details">Create Hotel Details</string>
+    <string name="hotel_name">Hotel Name</string>
+    <string name="registartion_number">Reg No</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="submit" />
+    <string name="upadate_details">Update Details</string>
+    <string name="submit_correct">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="edit_hotel_details">Edit Hotel Details</string>
+    <string name="search">Search</string>
+    <string name="register_hotel">Register Hotel</string>
+</resources>
