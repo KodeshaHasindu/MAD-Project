@@ -11,28 +11,28 @@
         android:theme="@style/Theme.Allplacesrilanak">
         <activity
             android:name=".profilemanagement"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".planatripsrilanka"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".sripadayadetails"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".srimahabodiyadetails"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".mirissadetails"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".polonnaruwadetails"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".sigiriyadetails"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".showpage2"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
